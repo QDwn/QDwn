@@ -11,7 +11,7 @@ p
 {
     color: black;
     text-align: right;
-    margin-right: 270px;
+    margin-right: 300px;
     font-size: 30px;
     font-weight: bold;
 }
@@ -23,7 +23,7 @@ p
 h1{
     font-size: 30px;
     text-align:right;
-    margin-right: 270px;
+    margin-right: 320px;
 
 }
 .background-container
@@ -34,7 +34,7 @@ h1{
     width: 35%;
     padding: 11px;
     border-radius: 10px;
-    margin-left: 850px;
+    margin-left: 950px;
 }
 button.login-form{
     padding: 10px 265px;
@@ -46,11 +46,11 @@ button.login-form{
 
 }
 .co-tk{
-    margin-left: 850px;
+    margin-left: 950px;
 }
 .dang-ki
 {
-    margin-left: 990px;
+    margin-left: 1300px;
 }
 n{
     font-size: 20px;
