@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: #adacac;
+}
+nav{
+    position: absolute;
+    height: 100%;
+    background: #fff;
+    width: 100px;
+    overflow: hidden;
+    transition: width 0.2s linear;
+}
+.logo{
+    text-align: left;
+    display: flex;
+    transition: all 0.5s ease;
+}
+.logo span{
+    font-weight: bold;
+    padding: 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+a{
+    position: relative;
+    color: darkgreen;
+    font-size: 20px;
+    display: table;
+    width: 500px;
+    padding: 20px;
+}
+.fas{
+    position: relative;
+    width: 80px;
+    height: 50px;
+    top: 14px;
+    font-size: 20px;
+    text-align: center;
+}
+.Buck-item{
+    position: relative;
+    top: 0px;
+    margin-left: 60px;
+    
+}
+a:hover{
+    background: #c9c6c6;
+}
+nav:hover{
+    width: 300px;
+    transition: all 0.5S ease;
+}
+
+

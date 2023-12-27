@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://scontent.fhan5-11.fna.fbcdn.net/v/t39.30808-6/412113616_3564326340550516_6264465479171388278_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFz4Oiaw9iy1VXXfXPsb9_Nv0cBWl1ZXYy_RwFaXVldjNjPbQVtoIHJNdVn94mRvJEZo4WSzHq2BiWluKKTco9-&_nc_ohc=Tf_wNyJ9i-EAX8n_vhN&_nc_ht=scontent.fhan5-11.fna&cb_e2o_trans=q&oh=00_AfAs1AnGwPPy3feSY04K3gy-AMk91La4csvJnXJbN1Z7sQ&oe=6584C913");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70%;
+    justify-content: center;
+    align-items: center;
+}
+p
+{
+    color: black;
+    text-align: right;
+    margin-right: 270px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.container{
+    padding: 0px;
+    text-align: left;
+    margin-bottom:0px;
+}
+h1{
+    font-size: 30px;
+    text-align:right;
+    margin-right: 270px;
+
+}
+.background-container
+{
+    text-align:right;
+}
+.login-form{
+    width: 35%;
+    padding: 11px;
+    border-radius: 10px;
+    margin-left: 850px;
+}
+button.login-form{
+    padding: 10px 265px;
+    color: rgb(255, 255, 255);
+    background-color: darkgreen;
+    border-radius: 10px;
+    font-size: 10px;
+    white-space: nowrap;
+
+}
+.co-tk{
+    margin-left: 850px;
+}
+.dang-ki
+{
+    margin-left: 990px;
+}
+n{
+    font-size: 20px;
+    margin-left: 900px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.quen-mk{
+    margin-left: 950px;
+    white-space: nowrap;
+}
+.tao-tk{
+    margin-right: -66px;
+    white-space: nowrap;
+}
